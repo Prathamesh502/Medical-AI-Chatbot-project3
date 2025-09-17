@@ -12,12 +12,6 @@
 * **Real-Time Streaming Responses**: Answers are displayed dynamically, giving a seamless chat experience.
 * **Custom Styling**: Chat interface inspired by ChatGPT with a user-friendly design.
 
----
-
-## Demo Screenshot 🖼️
-
-**
-*(You can add a screenshot of your application here)*
 
 ---
 
