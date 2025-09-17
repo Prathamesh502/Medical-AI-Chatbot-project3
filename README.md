@@ -111,7 +111,5 @@ This project showcases the ability to **build functional AI tools** from scratch
 **Prathamesh Lawande**
 
 * Data Science Enthusiast | AI & ML Developer
-* **GitHub**: `[Your GitHub Profile URL]`
-* **LinkedIn**: `[Your LinkedIn Profile URL]`
 
 
