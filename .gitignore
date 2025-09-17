@@ -1,0 +1,11 @@
+    # Environment variables - Contains secrets!
+.env
+
+# IDE configuration files
+.idea/
+
+# Python cache files
+__pycache__/
+
+# Generated vector stores and large data files
+Vectorstore/
